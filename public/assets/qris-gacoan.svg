@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" fill="none">
+  <!-- Background -->
+  <rect width="400" height="480" rx="20" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="398" height="478" rx="19" stroke="#E5E7EB" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect width="400" height="80" rx="20" fill="#0F2A33"/>
+  <rect y="60" width="400" height="20" fill="#0F2A33"/>
+  <text x="200" y="38" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">MIE GACOAN</text>
+  <text x="200" y="58" font-family="Arial, sans-serif" font-size="11" fill="#17B8CF" text-anchor="middle">Scan untuk Pembayaran QRIS</text>
+
+  <!-- QRIS Label -->
+  <rect x="140" y="90" width="120" height="24" rx="12" fill="#17B8CF"/>
+  <text x="200" y="106" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">QRIS NASIONAL</text>
+
+  <!-- QR Code area (simulated) -->
+  <rect x="60" y="125" width="280" height="280" rx="12" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1.5"/>
+
+  <!-- Corner squares (QR style) -->
+  <!-- Top-left finder pattern -->
+  <rect x="80" y="145" width="56" height="56" rx="4" fill="#0F2A33"/>
+  <rect x="88" y="153" width="40" height="40" rx="2" fill="white"/>
+  <rect x="96" y="161" width="24" height="24" rx="1" fill="#0F2A33"/>
+
+  <!-- Top-right finder pattern -->
+  <rect x="264" y="145" width="56" height="56" rx="4" fill="#0F2A33"/>
+  <rect x="272" y="153" width="40" height="40" rx="2" fill="white"/>
+  <rect x="280" y="161" width="24" height="24" rx="1" fill="#0F2A33"/>
+
+  <!-- Bottom-left finder pattern -->
+  <rect x="80" y="329" width="56" height="56" rx="4" fill="#0F2A33"/>
+  <rect x="88" y="337" width="40" height="40" rx="2" fill="white"/>
+  <rect x="96" y="345" width="24" height="24" rx="1" fill="#0F2A33"/>
+
+  <!-- Data modules (simulated QR data) -->
+  <rect x="156" y="145" width="8" height="8" fill="#0F2A33"/>
+  <rect x="172" y="145" width="8" height="8" fill="#0F2A33"/>
+  <rect x="188" y="145" width="8" height="8" fill="#0F2A33"/>
+  <rect x="204" y="145" width="8" height="8" fill="#0F2A33"/>
+  <rect x="220" y="145" width="8" height="8" fill="#0F2A33"/>
+  <rect x="236" y="145" width="8" height="8" fill="#0F2A33"/>
+  <rect x="252" y="145" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="156" y="161" width="8" height="8" fill="#0F2A33"/>
+  <rect x="188" y="161" width="8" height="8" fill="#0F2A33"/>
+  <rect x="220" y="161" width="8" height="8" fill="#0F2A33"/>
+  <rect x="252" y="161" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="164" y="177" width="8" height="8" fill="#0F2A33"/>
+  <rect x="196" y="177" width="8" height="8" fill="#0F2A33"/>
+  <rect x="228" y="177" width="8" height="8" fill="#0F2A33"/>
+  <rect x="244" y="177" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="156" y="193" width="8" height="8" fill="#0F2A33"/>
+  <rect x="172" y="193" width="8" height="8" fill="#0F2A33"/>
+  <rect x="204" y="193" width="8" height="8" fill="#0F2A33"/>
+  <rect x="236" y="193" width="8" height="8" fill="#0F2A33"/>
+  <rect x="252" y="193" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="80" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="96" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="120" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="156" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="180" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="212" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="244" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="280" y="209" width="8" height="8" fill="#0F2A33"/>
+  <rect x="296" y="209" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="80" y="225" width="8" height="8" fill="#0F2A33"/>
+  <rect x="112" y="225" width="8" height="8" fill="#0F2A33"/>
+  <rect x="148" y="225" width="8" height="8" fill="#0F2A33"/>
+  <rect x="172" y="225" width="8" height="8" fill="#0F2A33"/>
+  <rect x="200" y="225" width="8" height="8" fill="#0F2A33"/>
+  <rect x="228" y="225" width="8" height="8" fill="#0F2A33"/>
+  <rect x="260" y="225" width="8" height="8" fill="#0F2A33"/>
+  <rect x="300" y="225" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="88" y="241" width="8" height="8" fill="#0F2A33"/>
+  <rect x="120" y="241" width="8" height="8" fill="#0F2A33"/>
+  <rect x="160" y="241" width="8" height="8" fill="#0F2A33"/>
+  <rect x="184" y="241" width="8" height="8" fill="#0F2A33"/>
+  <rect x="216" y="241" width="8" height="8" fill="#0F2A33"/>
+  <rect x="248" y="241" width="8" height="8" fill="#0F2A33"/>
+  <rect x="272" y="241" width="8" height="8" fill="#0F2A33"/>
+  <rect x="308" y="241" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="80" y="257" width="8" height="8" fill="#0F2A33"/>
+  <rect x="104" y="257" width="8" height="8" fill="#0F2A33"/>
+  <rect x="140" y="257" width="8" height="8" fill="#0F2A33"/>
+  <rect x="176" y="257" width="8" height="8" fill="#0F2A33"/>
+  <rect x="208" y="257" width="8" height="8" fill="#0F2A33"/>
+  <rect x="240" y="257" width="8" height="8" fill="#0F2A33"/>
+  <rect x="264" y="257" width="8" height="8" fill="#0F2A33"/>
+  <rect x="296" y="257" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="96" y="273" width="8" height="8" fill="#0F2A33"/>
+  <rect x="128" y="273" width="8" height="8" fill="#0F2A33"/>
+  <rect x="152" y="273" width="8" height="8" fill="#0F2A33"/>
+  <rect x="192" y="273" width="8" height="8" fill="#0F2A33"/>
+  <rect x="224" y="273" width="8" height="8" fill="#0F2A33"/>
+  <rect x="256" y="273" width="8" height="8" fill="#0F2A33"/>
+  <rect x="288" y="273" width="8" height="8" fill="#0F2A33"/>
+  <rect x="308" y="273" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="80" y="289" width="8" height="8" fill="#0F2A33"/>
+  <rect x="112" y="289" width="8" height="8" fill="#0F2A33"/>
+  <rect x="156" y="289" width="8" height="8" fill="#0F2A33"/>
+  <rect x="180" y="289" width="8" height="8" fill="#0F2A33"/>
+  <rect x="216" y="289" width="8" height="8" fill="#0F2A33"/>
+  <rect x="252" y="289" width="8" height="8" fill="#0F2A33"/>
+  <rect x="276" y="289" width="8" height="8" fill="#0F2A33"/>
+  <rect x="300" y="289" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="156" y="305" width="8" height="8" fill="#0F2A33"/>
+  <rect x="180" y="305" width="8" height="8" fill="#0F2A33"/>
+  <rect x="204" y="305" width="8" height="8" fill="#0F2A33"/>
+  <rect x="228" y="305" width="8" height="8" fill="#0F2A33"/>
+  <rect x="252" y="305" width="8" height="8" fill="#0F2A33"/>
+  <rect x="276" y="305" width="8" height="8" fill="#0F2A33"/>
+  <rect x="308" y="305" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="164" y="321" width="8" height="8" fill="#0F2A33"/>
+  <rect x="196" y="321" width="8" height="8" fill="#0F2A33"/>
+  <rect x="220" y="321" width="8" height="8" fill="#0F2A33"/>
+  <rect x="244" y="321" width="8" height="8" fill="#0F2A33"/>
+  <rect x="268" y="321" width="8" height="8" fill="#0F2A33"/>
+  <rect x="300" y="321" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="156" y="337" width="8" height="8" fill="#0F2A33"/>
+  <rect x="188" y="337" width="8" height="8" fill="#0F2A33"/>
+  <rect x="212" y="337" width="8" height="8" fill="#0F2A33"/>
+  <rect x="236" y="337" width="8" height="8" fill="#0F2A33"/>
+  <rect x="260" y="337" width="8" height="8" fill="#0F2A33"/>
+  <rect x="292" y="337" width="8" height="8" fill="#0F2A33"/>
+  <rect x="308" y="337" width="8" height="8" fill="#0F2A33"/>
+
+  <rect x="164" y="353" width="8" height="8" fill="#0F2A33"/>
+  <rect x="200" y="353" width="8" height="8" fill="#0F2A33"/>
+  <rect x="228" y="353" width="8" height="8" fill="#0F2A33"/>
+  <rect x="252" y="353" width="8" height="8" fill="#0F2A33"/>
+  <rect x="276" y="353" width="8" height="8" fill="#0F2A33"/>
+  <rect x="300" y="353" width="8" height="8" fill="#0F2A33"/>
+
+  <!-- Center logo overlay -->
+  <rect x="178" y="258" width="44" height="44" rx="6" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="182" y="262" width="36" height="36" rx="4" fill="#E6007E"/>
+  <text x="200" y="284" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white" text-anchor="middle">GCN</text>
+
+  <!-- Footer -->
+  <text x="200" y="430" font-family="Arial, sans-serif" font-size="10" fill="#6B7280" text-anchor="middle">Scan dengan aplikasi m-banking atau e-wallet</text>
+  <text x="200" y="448" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0F2A33" text-anchor="middle">a.n. Mie Gacoan Indonesia</text>
+  <text x="200" y="464" font-family="Arial, sans-serif" font-size="9" fill="#9CA3AF" text-anchor="middle">NMID: ID1023456789012345</text>
+</svg>
