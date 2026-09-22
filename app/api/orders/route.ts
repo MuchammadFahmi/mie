@@ -163,10 +163,11 @@ export async function POST(req: NextRequest) {
       { success: true, order_code, order_id: orderId, total_price },
       { status: 201 }
     );
-  } catch (error) {
+  } catch (error: any) {
     console.error("Error creating order:", error);
+    const errorMessage = error?.message || error?.details || (typeof error === "object" ? JSON.stringify(error) : String(error));
     return NextResponse.json(
-      { error: "Gagal membuat pesanan" },
+      { error: `Gagal membuat pesanan (${errorMessage})` },
       { status: 500 }
     );
   }
